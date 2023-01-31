@@ -12,3 +12,5 @@
 5. Enjoy.
 
 Megan making some fancy change.
+
+Adding a new line from the terminal via the nano command. We will then push this new change back to github.
